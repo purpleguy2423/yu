@@ -1,0 +1,1 @@
+sudo apt install pkg-config libasound2-dev libudev-dev default-jre-headless g++
